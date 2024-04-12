@@ -95,6 +95,6 @@
 
  <div class="footer-copy">
      <div class="container">
-         Copyright © 2021 - Prajapati Snacks All Right Reserved by <a href="https://www.saibranding.com/" style="color: white;"> SAI Branding</a>
+         Copyright © 2021 - Prajapati Snacks All Right Reserved by <a href="https://www.saibranding.com/" style="color: white;"> SAI BRANDING</a>
      </div>
  </div>
